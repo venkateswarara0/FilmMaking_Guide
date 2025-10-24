@@ -1,4 +1,4 @@
-# FilmCraft Academy - Professional Filmmaking Website
+# VisualsVenkey Academy - Professional Filmmaking Website
 
 A comprehensive, responsive website dedicated to teaching the art of filmmaking with Hollywood-style visual effects and professional content. This website provides detailed information about every aspect of film production, from pre-production to post-production.
 
@@ -188,9 +188,9 @@ film-web/
 
 ## 📞 Contact & Support
 
-- **Email**: info@filmcraftacademy.com
-- **Phone**: +1 (555) 123-4567
-- **Location**: Los Angeles, CA
+- **Email**: rameshpandu831@gmail.com
+- **Phone**: +91 7893207811
+- **Location**: Gudivada, AP
 
 ## 🎭 Industry Insights
 
@@ -236,3 +236,4 @@ The website is designed to be easily customizable:
 **FilmCraft Academy** - Master the art of filmmaking with professional techniques and industry-standard equipment. From script to screen, learn everything you need to create compelling visual stories.
 
 *Built with modern web technologies and optimized for all devices.*
+
